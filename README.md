@@ -9,7 +9,7 @@ Writeups are organized by **platform → category → challenge**:
 ```
 ctf-writeups/
 ├── README.md                          ← this file (index)
-├── tryhackme/
+├── cylabacedemy/
 │   └── web/
 │       └── no-fa/
 │           └── README.md
@@ -20,7 +20,7 @@ ctf-writeups/
 │   └── crypto/
 │       └── <challenge-slug>/
 │           └── README.md
-├── picoctf/
+├── tryhackme/
 │   └── forensics/
 │       └── <challenge-slug>/
 │           └── README.md
